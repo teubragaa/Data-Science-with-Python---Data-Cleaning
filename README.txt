@@ -71,7 +71,7 @@ Ao finalizar este projeto, desenvolvi conhecimentos fundamentais para trabalhar 
 
 ## 👨‍💻 Autor
 
-**Mateus Braga**
+**Mateus Laudilino Braga**
 
 Estudante de Engenharia de Software.
 
