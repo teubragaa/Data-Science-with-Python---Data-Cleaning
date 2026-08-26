@@ -1,1 +1,1 @@
-# Atividades do curso CISCO ACADEMY ciência de dados com Python
+# Atividades do curso Data Science Essentials with Python
